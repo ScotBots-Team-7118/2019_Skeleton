@@ -1,5 +1,8 @@
 package frc.robot;
 
+/**
+ * An interface containing the necessary constants for the robot to function properly.
+ */
 public interface Scotstants {
     /* An array containing the index values of the drive spark ports.
      Sparks, in order, are as follows:
